@@ -15,7 +15,7 @@
 		{title}
 	</h3>
 	<p>
-		= {location}
+		📌 {location}
 	</p>
 	{#if subtitle}
 	<p>
