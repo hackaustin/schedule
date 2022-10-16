@@ -1,7 +1,7 @@
 <script>
-	import Card from "./Card.svelte";
-	import Workshop from "./Workshop.svelte"
-	import BlankCard from "./BlankCard.svelte"
+	import Card from "../components/Card.svelte";
+	import Workshop from "../components/Workshop.svelte"
+	import BlankCard from "../components/BlankCard.svelte"
 </script>
 
 <h1 class="ha-heading">
