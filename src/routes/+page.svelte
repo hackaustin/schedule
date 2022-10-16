@@ -21,6 +21,7 @@ Hack Austin!
 	<Workshop title="🎮 Sprig Workshop - make a game!" host="Reese Armstrong" time="14:45"></Workshop>
 	<Workshop title="⬜ 3D Modeling Workshop" host="Camilla Bosquez" time="15:30"></Workshop>
 	<Workshop title="🎮 Unity Workshop" host="Arnav Jambhulkar" time="16:30"></Workshop>
+	<Workshop title="Swift Workshop" host="Rylan Berry" time="17:00"></Workshop>
 	<BlankCard time="17:30"></BlankCard>
 	<Card title="🙌 Hands off! - Demo Setup & More Pizza 🍕" location="Everywhere" time="18:00"></Card>
 	<Card title="💻 Demos & Voting" location="Open Area" time="18:30"></Card>
